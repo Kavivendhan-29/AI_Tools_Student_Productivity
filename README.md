@@ -3,8 +3,8 @@
 
 **Tool Used:** Power BI  
 **Data Source:** Google Form Survey (Student Responses)  
-**Duration:** Aug 2025 – Oct 2025  
-**Author:** Kavi Vendhan V S  
+**Duration:**  Oct 2025  
+**Author:** Kavivendhan V S  
 
 ---
 
